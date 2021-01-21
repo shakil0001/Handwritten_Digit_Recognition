@@ -1,0 +1,4 @@
+The handwritten digit recognition using the Keras and open CV.
+This is a project, which is based on develop a deep learning model to achieve near state of the art performance on the MNIST handwritten digit recognition task in Python using the Keras deep learning library.
+  In this project, we are going to recognize the handwritten numbers using special type of networks called convolutional neural networks and Keras Library.
+                          DEVELOPED BY SHAKIL
